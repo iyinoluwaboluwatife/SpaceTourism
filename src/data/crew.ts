@@ -1,7 +1,7 @@
-import commander from '../assets/Crew/image-douglas-hurley.png';
-import specialist from '../assets/Crew/image-mark-shuttleworth.png';
-import pilot from '../assets/Crew/image-victor-glover.png';
-import flightEngineer from '../assets/Crew/image-anousheh-ansari.png';
+import commander from '../assets/crew/image-douglas-hurley.png';
+import specialist from '../assets/crew/image-mark-shuttleworth.png';
+import pilot from '../assets/crew/image-victor-glover.png';
+import flightEngineer from '../assets/crew/image-anousheh-ansari.png';
 
 
 
