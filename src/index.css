@@ -311,7 +311,7 @@ h2 span {
   position: fixed;
   top: 0;
   right: -100%;
-  width: 60%;
+  width: 70%;
   height: 100vh;
   background: rgb(2, 3, 18);
   padding: 3rem 0rem;
@@ -334,7 +334,7 @@ h2 span {
   background: none;
 }
 .mobile-nav ul b {
-  margin-right: 10px;
+  margin-right: 5px;
 }
 
 .mobile-nav a {
@@ -346,7 +346,7 @@ h2 span {
 
 .mobile-nav a.active {
   border-right: 2px solid white;
-  padding-right: 40px;
+  padding-right: 20px;
   border-bottom: none;
   padding-bottom: 0.5rem;
   
@@ -428,6 +428,11 @@ h2 span {
   align-items: center;
   justify-content: center;
   margin: 5rem;
+}
+.explore .circle {
+  padding: 50px;
+  margin-bottom: 30px;
+ 
 }
 .destination {
   padding: 3rem;
